@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1KQVC5Yi25JPI5Enu4IGJjXQ5hniU5hgU
 """
 
+#data set link "https://www.kaggle.com/datasets/oddrationale/mnist-in-csv"
+
 import joblib
 import pandas as pd
 import numpy as np
